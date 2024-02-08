@@ -17,6 +17,14 @@ This Slack bot is a multi-functional assistant designed to enhance communication
 - View task details including description, status, due time, and creation time.
 - Example usage: `/create task - Do homework tomorrow`
 
+## Screenshots
+
+| Details Page | AI Screen | Weather Forecasting| Task Creation |
+| ------------ | ------------ | ------------ | ------------ |
+![Screenshot 1](https://github.com/VANSHAJ-cpp/AI-Intelli-Task-Bot/assets/93986234/aef05f75-cbc2-44ec-984c-f8e3e1509909) |  ![Screenshot 2](https://github.com/VANSHAJ-cpp/AI-Intelli-Task-Bot/assets/93986234/30a95261-3eba-4633-a2f2-49daca822c98) |  ![Screenshot 3](https://github.com/VANSHAJ-cpp/AI-Intelli-Task-Bot/assets/93986234/452dd082-514d-4175-a6f5-1d8a18756247) | ![Screenshot 4](https://github.com/VANSHAJ-cpp/AI-Intelli-Task-Bot/assets/93986234/e0eb228a-3c99-4735-ad05-0152c465b0f8) |
+
+
+
 ## Usage
 
 1. **Setup Environment Variables**
