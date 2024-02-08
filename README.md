@@ -1,2 +1,2 @@
 # AI-Intelli-Task-Bot
-This bot is a multi-functional assistant that integrates weather forecasting, task management, and AI-powered question answering.
+This bot is a multi-functional assistant that integrates weather forecasting, task management, and AI-powered question answering. It allows users to retrieve current weather forecasts for specific cities, create tasks with due times, manage task statuses, and obtain answers to various questions using the Wolfram Alpha engine. With its versatile capabilities, the bot aims to streamline communication and organization within Slack channels, providing users with essential information and task management functionalities in one centralized platform.
